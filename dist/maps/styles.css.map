@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/style.css"],"names":[],"mappings":"AAAA,KAAA,iBAAA,KAAA,GAAA,MAAA","file":"../project/styles.css","sourcesContent":["body{\r\n    background-color: #fff;\r\n}\r\n\r\nh2{\r\n    color: red;\r\n}\r\n"]}

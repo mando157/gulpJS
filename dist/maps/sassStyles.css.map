@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/style.scss"],"names":[],"mappings":"AAAA,KACI,UAAA,KAEA,OACI,MAAA","file":"../project/sassStyles.css","sourcesContent":["body{\r\n    font-size: 20px;\r\n\r\n    p{\r\n        color: aquamarine;\r\n    }\r\n}"]}
